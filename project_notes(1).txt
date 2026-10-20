@@ -1,0 +1,2 @@
+project_notes
+The Campus Canteen Feedback project is designed to collect students’ opinions about the food quality, prices, cleanliness, and service of the university canteen. Students can share their experiences and suggest improvements through a feedback form. The collected responses help the canteen management identify problems and improve its services. The main purpose of this project is to make the canteen experience better for all students.
