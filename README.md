@@ -14,3 +14,6 @@ This fictional class project explores what students think about the food and ser
 
 ## Privacy reminder
 Personal records and identifiable participant data must not be uploaded.
+
+## Next step
+We will finalise the survey questions and share them with the team for review.
